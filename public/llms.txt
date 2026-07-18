@@ -1,0 +1,96 @@
+# רחלי לושי ברקת — Generative Engine Optimization Map
+
+> אימון עסקי בקבוצה לבעלי עסקים שרוצים להצליח יותר וללמוד כלים שישפעו בכל הרבדים. קבוצת "נבחרת העסקים של כפר סבא והסביבה" בפייסבוק עם 2,500 בעלי ובעלות עסקים. נטוורקינג ארצי לעסקים, קבוצות עבודה וכנסים. סמינר נשי ייחודי, עם תכנים מעצימים להתפתחות אישית.
+
+---
+
+## Pages
+
+### עמוד הבית - רחלי לושי ברקת
+https://-b0360c40.zappy5.app
+
+### 404 Not Found
+https://-b0360c40.zappy5.app/coaching
+
+### 404 Not Found
+https://-b0360c40.zappy5.app/business-coaching
+
+### 404 Not Found
+https://-b0360c40.zappy5.app/couples
+
+### 404 Not Found
+https://-b0360c40.zappy5.app/small-biz
+
+### 404 Not Found
+https://-b0360c40.zappy5.app/סדנת-ליגת-האלופות
+
+### 404 Not Found
+https://-b0360c40.zappy5.app/podcasts
+
+### 404 Not Found
+https://-b0360c40.zappy5.app/about-me
+
+### 404 Not Found
+https://-b0360c40.zappy5.app/contact
+
+### 404 Not Found
+https://-b0360c40.zappy5.app/הצהרת-נגישות
+
+### 404 Not Found
+https://-b0360c40.zappy5.app/accessibility
+
+### 404 Not Found
+https://-b0360c40.zappy5.app/תנאי-שימוש
+
+## Legal & Policy
+
+### Privacy Policy
+https://-b0360c40.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-b0360c40.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-b0360c40.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- Email: racheli.lushi@gmail.com
+
+---
+
+# Business Context (for LLM understanding)
+
+## About רחלי לושי ברקת
+אימון עסקי בקבוצה לבעלי עסקים שרוצים להצליח יותר וללמוד כלים שישפעו בכל הרבדים. קבוצת "נבחרת העסקים של כפר סבא והסביבה" בפייסבוק עם 2,500 בעלי ובעלות עסקים. נטוורקינג ארצי לעסקים, קבוצות עבודה וכנסים. סמינר נשי ייחודי, עם תכנים מעצימים להתפתחות אישית.
+
+## Services/Products
+- אימון אישי
+- אימון עסקי
+- אימון זוגי
+- סדנאות
+- פודקאסטים
+- נטוורקינג ארצי לעסקים
+- סמינר נשי ייחודי
+
+## Target Audience
+- Customers looking for אימון אישי and אימון עסקי
+- לקוחות אימון אישי
+- לקוחות אימון עסקי
+- מנהיגי צוותים בארגונים
+
+## Industry
+Personal Branding / Professional Services
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-b0360c40.zappy5.app/sitemap.xml
+- Robots: https://-b0360c40.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-b0360c40.zappy5.app/llms-full.txt

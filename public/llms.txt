@@ -7,53 +7,53 @@
 ## Pages
 
 ### עמוד הבית - רחלי לושי ברקת
-https://-b0360c40.zappy5.app
+https://example.com
 
 ### 404 Not Found
-https://-b0360c40.zappy5.app/coaching
+https://example.com/coaching
 
 ### 404 Not Found
-https://-b0360c40.zappy5.app/business-coaching
+https://example.com/business-coaching
 
 ### 404 Not Found
-https://-b0360c40.zappy5.app/couples
+https://example.com/couples
 
 ### 404 Not Found
-https://-b0360c40.zappy5.app/small-biz
+https://example.com/small-biz
 
 ### 404 Not Found
-https://-b0360c40.zappy5.app/סדנת-ליגת-האלופות
+https://example.com/סדנת-ליגת-האלופות
 
 ### 404 Not Found
-https://-b0360c40.zappy5.app/podcasts
+https://example.com/podcasts
 
 ### 404 Not Found
-https://-b0360c40.zappy5.app/about-me
+https://example.com/about-me
 
 ### 404 Not Found
-https://-b0360c40.zappy5.app/contact
+https://example.com/contact
 
 ### 404 Not Found
-https://-b0360c40.zappy5.app/הצהרת-נגישות
+https://example.com/הצהרת-נגישות
 
 ### 404 Not Found
-https://-b0360c40.zappy5.app/accessibility
+https://example.com/accessibility
 
 ### 404 Not Found
-https://-b0360c40.zappy5.app/תנאי-שימוש
+https://example.com/תנאי-שימוש
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-b0360c40.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-b0360c40.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-b0360c40.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -91,6 +91,6 @@ Personal Branding / Professional Services
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-b0360c40.zappy5.app/sitemap.xml
-- Robots: https://-b0360c40.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-b0360c40.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
